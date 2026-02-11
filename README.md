@@ -34,7 +34,7 @@ prikolice: Posebna tabela za priključna vozila radi lakšeg menjanja kombinacij
 Relacije: Svaki kamion je povezan sa vozačem preko Foreign Key (vozac_id) polja.
 
 🏁 Kako pokrenuti projekat
-Kloniraj repozitorijum: git clone [link-do-tvoj-repo]
+Kloniraj repozitorijum: git clone [https://github.com/DanijelBasaric/transport-logistics-dashboard.git]
 
 Instaliraj zavisnosti: npm install
 
